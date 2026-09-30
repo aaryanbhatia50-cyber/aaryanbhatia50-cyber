@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Aaryan Bhatia</h1>
 
-<h3 align="center">Data Science | Data Analytics | Machine Learning</h3>
+<h3 align="center">Data Science | Data Analytics | Business Analytics</h3>
 
 <p align="center">
-  Computer Science student specializing in Data Science at Manipal University Jaipur, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.
+  <strong>Computer Science student specializing in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.</strong>
 </p>
 
 ---
 
-- 🔭 Currently working on **Customer Churn & Revenue Risk Intelligence**
-- 🌱 Currently learning **Generative AI, LLMs and RAG**
-- 📊 Interested in **Data Science, Data Analytics and Business Intelligence**
-- 🤖 Working with **Machine Learning, Deep Learning and Predictive Analytics**
-- 📈 Interested in **KPI design, data visualization and business-driven insights**
-- 💬 Ask me about **Python, SQL, Machine Learning, Power BI and Data Analytics**
-- 📫 Reach me at **aaryanbhatia50@gmail.com**
+- 🔭 I’m currently working on **Customer Churn & Revenue Risk Intelligence, focusing on predictive modeling and translating customer behavior into actionable business insights.**
+
+- 🌱 I’m currently learning **Generative AI, LLMs and RAG while strengthening my foundations in data science and analytics.**
+
+- 🤝 I’m looking to collaborate on **data-driven projects involving business analytics, predictive modeling, data visualization, and real-world problem solving.**
+
+- 🧠 I’m interested in **building scalable analytical workflows and improving machine learning solutions to solve practical business problems.**
+
+- 💬 Ask me about **Python, SQL, Data Science, Data Analytics, Power BI and Machine Learning concepts.**
+
+- 📫 Reach out to me at **aaryanbhatia50@gmail.com** for collaborations, opportunities or just to connect.
+
+- ⚡ Fun fact **I enjoy turning messy datasets into clear insights, dashboards, and stories that actually make sense.**
 
 ### Connect with me:
 
@@ -55,19 +61,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
 &nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Excel" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://www.python.org/" target="_blank">
+<a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </a>
 &nbsp;
-<a href="https://xgboost.readthedocs.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a href="https://html.spec.whatwg.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </a>
 &nbsp;
@@ -79,5 +77,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 </p>
-
-**Core:** Python · SQL · Machine Learning · Deep Learning · XGBoost · Scikit-learn · Power BI · Excel · KPI Design

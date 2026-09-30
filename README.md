@@ -4,7 +4,7 @@
 
 <h2 align="center">
   Computer Science student specializing in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.
-</h2>
+
 
 ---
 

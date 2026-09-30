@@ -2,9 +2,11 @@
 
 <h3 align="center">Data Science | Data Analytics | Business Analytics</h3>
 
-<h2 align="center">
-  Computer Science student specializing in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.
-</h2>
+<h3 align="center">
+  <strong>
+    Computer Science student specializing in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.
+  </strong>
+</h3>
 
 
 
@@ -20,7 +22,7 @@
 
 - 📫 Reach out to me at **aaryanbhatia50@gmail.com** for collaborations, opportunities or just to connect.
 
-- ⚡ Fun fact **I enjoy exploring how data can uncover patterns that aren't obvious at first glance and turn them into meaningful business insights.**
+- ⚡ Fun fact **I like finding patterns in data and turning them into insights that are simple, useful, and easy to understand.**
 
 
 ### Connect with me:

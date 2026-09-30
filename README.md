@@ -7,6 +7,7 @@
 </h2>
 
 
+
 - 🔭 I’m currently working on **Customer Churn & Revenue Risk Intelligence, focusing on predictive modeling and translating customer behavior into actionable business insights.**
 
 - 🌱 I’m currently learning **Generative AI, LLMs and RAG while strengthening my foundations in data science and analytics.**

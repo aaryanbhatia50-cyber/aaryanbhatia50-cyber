@@ -3,7 +3,9 @@
 <h3 align="center">Data Science | Data Analytics | Business Analytics</h3>
 
 <p align="center">
-  <strong>Computer Science student specializing in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.</strong>
+  <strong>
+    Computer Science student specializing in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.
+  </strong>
 </p>
 
 ---
@@ -14,13 +16,14 @@
 
 - 🤝 I’m looking to collaborate on **data-driven projects involving business analytics, predictive modeling, data visualization, and real-world problem solving.**
 
-- 🧠 I’m interested in **building scalable analytical workflows and improving machine learning solutions to solve practical business problems.**
+- 🧠 I’m interested in **building scalable analytical workflows and using data-driven approaches to solve practical business problems.**
 
 - 💬 Ask me about **Python, SQL, Data Science, Data Analytics, Power BI and Machine Learning concepts.**
 
 - 📫 Reach out to me at **aaryanbhatia50@gmail.com** for collaborations, opportunities or just to connect.
 
 - ⚡ Fun fact **I enjoy turning messy datasets into clear insights, dashboards, and stories that actually make sense.**
+
 
 ### Connect with me:
 
@@ -37,6 +40,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
 </a>
 </p>
+
 
 ### Languages and Tools:
 

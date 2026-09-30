@@ -4,9 +4,8 @@
 
 <h2 align="center">
   Computer Science student specializing in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and visualization.
+</h2>
 
-
----
 
 - 🔭 I’m currently working on **Customer Churn & Revenue Risk Intelligence, focusing on predictive modeling and translating customer behavior into actionable business insights.**
 
